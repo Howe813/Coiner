@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ### 2. 配置API密钥
 
 #### 获取API密钥
-1. 访问 [LaunchPortal.fun Trading API Setup](https://launchportal.fun/trading-api/setup)
+1. 访问 [pumpportal.fun Trading API Setup](https://pumpportal.fun/trading-api/setup)
 2. 按照页面指引生成API密钥
 3. 复制生成的密钥
 
@@ -62,7 +62,7 @@ python main.py
 
 | 变量名 | 说明 | 来源 |
 |--------|------|------|
-| `API_KEY` | 用于代币创建和交易的API密钥 | [pumpportal.fun](https://launchportal.fun/trading-api/setup) |
+| `API_KEY` | 用于代币创建和交易的API密钥 | [pumpportal.fun](https://pumpportal.fun/trading-api/setup) |
 | `WALLET_PRIVATE_KEY` | 钱包私钥，用于签名交易 | 您的钱包（可选） |
 
 ### 支持的平台
