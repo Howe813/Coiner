@@ -3,7 +3,7 @@
 > 一个强大的GUI工具，用于在 pump.fun、bonk.fun、moonshot.so 等平台批量创建代币
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Howe813/Coiner?tab=MIT-1-ov-file)
 
 ## ✨ 功能特性
 
