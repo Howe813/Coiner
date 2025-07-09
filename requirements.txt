@@ -1,0 +1,2 @@
+# Coiner 项目依赖
+# 适用于批量在 pump.fun、bonk.fun、moonshot.so 等平台创建代币的GUI工具 
