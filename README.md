@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ### 2. 配置API密钥
 
 #### 获取API密钥
-1. 访问 [PumpPortal.fun Trading API Setup](https://pumpportal.fun/trading-api/setup)
+1. 访问 [LaunchPortal.fun Trading API Setup](https://launchportal.fun/trading-api/setup)
 2. 按照页面指引生成API密钥
 3. 复制生成的密钥
 
@@ -62,12 +62,12 @@ python main.py
 
 | 变量名 | 说明 | 来源 |
 |--------|------|------|
-| `API_KEY` | 用于代币创建和交易的API密钥 | [PumpPortal.fun](https://pumpportal.fun/trading-api/setup) |
+| `API_KEY` | 用于代币创建和交易的API密钥 | [LaunchPortal.fun](https://launchportal.fun/trading-api/setup) |
 | `WALLET_PRIVATE_KEY` | 钱包私钥，用于签名交易 | 您的钱包（可选） |
 
 ### 支持的平台
 
-- **Pump.fun** - 允许amount=0，使用pump.fun IPFS，计价单位SOL
+- **Launch.fun** - 允许amount=0，使用launch.fun IPFS，计价单位SOL
 - **Bonk.fun** - 要求amount>0，使用bonk.fun IPFS，计价单位SOL
 - **Moonshot.com** - 要求amount>0，使用bonk.fun IPFS，计价单位USDC
 
@@ -79,7 +79,7 @@ python main.py
 
 ## 📝 使用示例
 
-1. **单平台创建**：选择单个平台（Pump/Bonk/Moonshot）创建代币
+1. **单平台创建**：选择单个平台（Launch/Bonk/Moonshot）创建代币
 2. **多平台批量**：同时选择多个平台批量创建代币
 3. **自定义元数据**：添加社交链接和描述信息
 4. **灵活购买**：支持0金额创建或指定购买金额

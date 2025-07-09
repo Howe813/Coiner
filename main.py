@@ -4,7 +4,7 @@ Main entry: GUI for token creation on pump.fun
 """
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
-from pumpfun_api import create_token_with_avatar
+from launch_api import create_token_with_avatar
 import os
 from config import API_KEY
 
